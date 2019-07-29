@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Model/DistribuidoraModel.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/View/Distribuidora.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Model/CaixaModel.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/View/PromocaoLevaPaga.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Model/PromocaoLevaPagaModel.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Controller/PromocaoLevaPagaController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/ModeloItem/ItemEstoque.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/ModeloItem/ItemCaixa.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/ModeloItem/ItemDistribuidora.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Model/EstoqueModel.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Model/PromocaoLevouGanhouModel.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Controller/EstoqueController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/View/Caixa.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/ModeloItem/ItemPromocaoLevouGanhou.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Teste/TestaPrograma.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Controller/CaixaController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/View/Estoque.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/View/PromocaoLevouGanhou.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Controller/PromocaoLevouGanhouController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/Controller/DistribuidoraController.java</file>
+            <file>file:/C:/Users/kaiof/Documents/NetBeansProjects/Rocambole/src/ModeloItem/ItemPromocaoLevaPaga.java</file>
+        </group>
+    </open-files>
+</project-private>
