@@ -1,4 +1,4 @@
-# ProgramaEstagioZG
+﻿# ProgramaEstagioZG
 AppClienteRocambole
 
 Banco de Dados Criado com o Workbench MySql.
@@ -17,7 +17,7 @@ CREATE TABLE cliente (
 
 CREATE TABLE distribuidora (
 	codigo INT AUTO_INCREMENT,
-    nome varchar (50) NOT NULL,
+    nome varchar (50) NOT NULDL,
     telefone varchar(50) NOT NULL,
     email varchar(50) NOT NULL,
     PRIMARY KEY (codigo)
