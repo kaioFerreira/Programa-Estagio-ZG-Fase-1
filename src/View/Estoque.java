@@ -13,7 +13,7 @@ public class Estoque {
         ItemEstoque produto = new ItemEstoque();
         
         produto.setNome(nome);
-        produto.setValorCusto(valorCusto);
+        produto.setValorCusto(valorCusto);kaiqueviado
         produto.setValorVenda(valorVenda);
         produto.setQuantidade(quantidade);
         produto.setIdDistribuidora(idDistribuidora);
